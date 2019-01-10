@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="broadcast_m">Broadcast M</string>
+    <string name="broadcast_n">Broadcast N</string>
+</resources>
